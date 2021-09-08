@@ -1,4 +1,5 @@
 # Spam Classifier
+Spam definition Spam is any kind of unwanted, unsolicited digital communication that gets sent out in bulk. Often spam is sent via email, but it can also be distributed via text messages, phone calls, or social media.
 
 ## What It Does: 
 <p align="center">
@@ -23,9 +24,3 @@ The SMS/Email Spam Collection is a set of SMS tagged messages that have been col
 The files contain one message per line. Each line is composed by two columns:
 - `Class`- contains the label (ham or spam) 
 - `Message` - contains the raw text.
-
-## ModelPipeline:
-<p align="center">
-  <br>
-  <img src="https://github.com/ShubhamPy/Spam-Classifier/blob/master/Screenshots/modelLayout.jpg">
-</p>
